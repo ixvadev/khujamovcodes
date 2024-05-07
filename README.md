@@ -9,6 +9,9 @@
 <code><img src="./Svg/sass-svgrepo-com.svg" width="30px"  alt=""></code>
 <code><img src="./Svg/bootstrap-fill-svgrepo-com.svg" width="30px"  alt=""></code>
 <code><img src="./Svg/tailwind-css-svgrepo-com.svg" width="30px"  alt=""></code>
+<code><img src="./Svg/javascript-155-svgrepo-com.svg" width="30px"  alt=""></code>
+<code><img src="./Svg/termux-svgrepo-com.svg" width="30px"  alt=""></code>
+
 
 
 </code>
@@ -16,4 +19,4 @@
 
 
 [<code><img src="./Svg/telegram-svgrepo-com.svg" width="30px"  alt=""></code>Telegram](https://t.me/khujamovdev)
-[<code><img src="./Svg/telegram-svgrepo-com.svg" width="30px"  alt=""></code>Instagram](https://instagram.com/@khujamov_codes)
+[<code><img src="./Svg/instagram-svgrepo-com.svg" width="30px"  alt=""></code>Instagram](https://instagram.com/@khujamov_codes)
