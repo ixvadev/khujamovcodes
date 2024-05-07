@@ -14,7 +14,3 @@
  
 </code>
 <br/>
-
-
-[<img src="./Svg/telegram-svgrepo-com.svg" width="20px"  alt="">Telegram](https://t.me/khujamovdev)
-[<img src="./Svg/instagram-svgrepo-com.svg" width="20px"  alt="">Instagram](https://instagram.com/@khujamov_codes)
