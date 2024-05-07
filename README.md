@@ -4,9 +4,8 @@
 
 
 ### Languages and tools I work with:
-<img src="./Svg/html5-01-svgrepo-com.svg" width="40px" alt="">
-<img src="./Svg/css3-01-svgrepo-com.svg" width="40px"  alt="">
-<img src="./Svg/sass-svgrepo-com.svg" width="40px"  alt="">
+
+<img src="./Svg/html5-01-svgrepo-com.svg" width="40px" alt=""><img src="./Svg/css3-01-svgrepo-com.svg" width="40px"  alt=""><img src="./Svg/sass-svgrepo-com.svg" width="40px"  alt="">
 <img src="./Svg/bootstrap-fill-svgrepo-com.svg" width="40px"  alt="">
 <img src="./Svg/tailwind-css-svgrepo-com.svg" width="40px"  alt="">
 <img src="./Svg/javascript-155-svgrepo-com.svg" width="40px"  alt="">
