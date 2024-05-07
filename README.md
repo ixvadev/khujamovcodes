@@ -4,12 +4,12 @@
 
 
 ### Languages and tools I work with:
-<code><img src="./Svg/html5-01-svgrepo-com.svg" width="40px" alt=""></code>
-<code><img src="./Svg/css3-01-svgrepo-com.svg" width="40px"  alt=""></code>
-<code><img src="./Svg/sass-svgrepo-com.svg" width="40px"  alt=""></code>
-<code><img src="./Svg/bootstrap-fill-svgrepo-com.svg" width="40px"  alt=""></code>
-<code><img src="./Svg/tailwind-css-svgrepo-com.svg" width="40px"  alt=""></code>
-<code><img src="./Svg/javascript-155-svgrepo-com.svg" width="40px"  alt=""></code>
+<img src="./Svg/html5-01-svgrepo-com.svg" width="40px" alt="">
+<img src="./Svg/css3-01-svgrepo-com.svg" width="40px"  alt="">
+<img src="./Svg/sass-svgrepo-com.svg" width="40px"  alt="">
+<img src="./Svg/bootstrap-fill-svgrepo-com.svg" width="40px"  alt="">
+<img src="./Svg/tailwind-css-svgrepo-com.svg" width="40px"  alt="">
+<img src="./Svg/javascript-155-svgrepo-com.svg" width="40px"  alt="">
 <img src="./Svg/termux-svgrepo-com.svg" width="40px"  alt="">
 
  
@@ -17,5 +17,5 @@
 <br/>
 
 
-[<code><img src="./Svg/telegram-svgrepo-com.svg" width="30px"  alt=""></code>Telegram](https://t.me/khujamovdev)
-[<code><img src="./Svg/instagram-svgrepo-com.svg" width="30px"  alt=""></code>Instagram](https://instagram.com/@khujamov_codes)
+[<img src="./Svg/telegram-svgrepo-com.svg" width="30px"  alt="">Telegram](https://t.me/khujamovdev)
+[<img src="./Svg/instagram-svgrepo-com.svg" width="30px"  alt="">Instagram](https://instagram.com/@khujamov_codes)
