@@ -9,7 +9,7 @@
 <img src="./Svg/tailwind-css-svgrepo-com.svg" width="40px"  alt="">
 <img src="./Svg/javascript-155-svgrepo-com.svg" width="40px"  alt="">
 <img src="./Svg/termux-svgrepo-com.svg" width="40px"  alt="">
-<img src="./Svg/javascript-155-svgrepo-com.svg" width="40px"  alt="">
+
 
 <!-- <img src="./Svg/telegram-svgrepo-com (1).svg" >
 <img src="./Svg/instagram-svgrepo-com (1).svg" > -->
