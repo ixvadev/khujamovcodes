@@ -1,4 +1,4 @@
-<img src="./Svg/codeRepeat.jpg" width="100%" height=170px; alt="">
+<!-- <img src="./Svg/codeRepeat.jpg" width="100%" height=150px; alt=""> -->
 
 
 ### Hi, I'm Khujamov Nodirbek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
