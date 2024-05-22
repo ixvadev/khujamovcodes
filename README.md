@@ -16,7 +16,4 @@
 
 <!-- <img src="./Svg/telegram-svgrepo-com (1).svg" >
 <img src="./Svg/instagram-svgrepo-com (1).svg" > -->
-
-
-</code>
 <br/>
