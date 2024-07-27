@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=F3A80D&color=000000" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=F3A80D&color=000000" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=F3A80D&color=000000" alt="Sass" />
+  <img src="https://img.shields.io/badge/Termux-009E49?style=for-the-badge&logo=android&logoColor=F3A80D&color=000000" alt="Termux" />
 </p>
+
 
 
 
