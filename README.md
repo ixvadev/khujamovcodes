@@ -8,6 +8,7 @@
 [![X](https://img.shields.io/badge/-X-F3A80D?style=for-the-badge&logo=x&logoColor=F3A80D&color=000000)](https://x.com/khujamov_codes)
 [![GitHub](https://img.shields.io/badge/-GitHub-F3A80D?style=for-the-badge&logo=github&logoColor=F3A80D&color=000000)](https://github.com/khujamov_codes)
 
+---
 ### Skills:
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=F3A80D&color=000000" alt="HTML" />
