@@ -1,5 +1,5 @@
 
-### Connect with me:
+### :
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-F3A80D?style=for-the-badge&logo=linkedin&logoColor=F3A80D&color=000000)](https://www.linkedin.com/in/khujamov_codes/)
 [![Instagram](https://img.shields.io/badge/-Instagram-F3A80D?style=for-the-badge&logo=instagram&logoColor=F3A80D&color=000000)](https://www.instagram.com/khujamov_codes/)
