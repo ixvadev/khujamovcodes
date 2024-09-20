@@ -29,9 +29,8 @@
 ## 🔧 Others:
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+![Git](https://img.shields.io/badge/-G
+
 
 
 
