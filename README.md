@@ -1,15 +1,4 @@
-# Hi there, I'm <a href="">Nodirbek Khumaov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
 
-## 👨‍💻 About Me:
-- 🎓 Education: <a href="https://itcityacademy.uz/" target="_blank">IT City Academy</a>.
-
-## 📫 How to contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ixvadev)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ixvadev/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/)
-
-## 🛠 Technologies & Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
